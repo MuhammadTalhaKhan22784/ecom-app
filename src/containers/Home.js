@@ -15,8 +15,18 @@ export default function Home() {
           {/* <Button>Sign Up</Button> */}
         </div>
       </div>
-      <Product />
-{/* 
+      <div className="d-flex justify-content-between flex-wrap">
+        <Product />
+        <Product />
+        <Product />
+        <Product />
+        <Product />
+        <Product />
+        <Product />
+        <Product />
+        <Product />
+      </div>
+      {/* 
       <Link to="/offer">
         <Product />
       </Link> */}
